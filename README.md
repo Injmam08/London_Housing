@@ -2,8 +2,6 @@
 
 A Streamlit-based interactive dashboard to analyze average house prices and sales trends across London boroughs. The project leverages data visualization and machine learning to uncover housing trends and support data-driven decisions.
 
-![Streamlit App Link](https://user-images.githubusercontent.com/your-screenshot-url) <!-- Optional: Replace with your screenshot URL -->
-
 ---
 
 ## 📌 Features
@@ -29,7 +27,7 @@ The dataset contains information on:
 
 ---
 
-## 🚀 Installation
+## 🚀 How to Run the Project
 
 ```bash
 # Clone the repository
