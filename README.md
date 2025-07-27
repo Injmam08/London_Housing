@@ -4,20 +4,24 @@ A Streamlit-based interactive dashboard to analyze average house prices and sale
 
 ---
 
-## 📌 Features
+##🧰 Tools and Technologies Used
+**Python** – Primary language for data processing and visualization
 
-- 📅 **Date Range Filtering**  
-- 🏙️ **Borough-wise Comparison**  
-- 📈 **Interactive Visualizations** using Plotly  
-- 📊 **Key Metrics** (Average Price, Total Sales)  
-- 🤖 **Price Prediction** using trained ML models  
-- 📥 **Download Filtered Data**
+**Pandas** – Data wrangling and transformation
+
+**Streamlit** – Building an interactive and user-friendly web app
+
+**Matplotlib & Seaborn** – Visualization of trends and distributions
+
+**Numpy** – Numerical computations and array operations
+
+**Excel** – Preliminary data examination
 
 ---
 
 ## 🧾 Dataset
 
-The dataset contains information on:
+**The dataset contains information on:**
 - Average house prices
 - Number of sales
 - London borough codes
